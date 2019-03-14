@@ -19,4 +19,4 @@ ISLES Challenges top entries
 | Choi et al | 3D| residual U-Net + SPP |  | | 31|
 |Monteiro et al | 3D| U-shaped | cross entropy + soft dice loss + CRF | | 30|
 |Lucas et al | 3D| U-Nets | weighted dice loss  | | 29|
-|Robben et al | 3D| DeepMedic like |  | lastic deformations + flips along the x-axis| 27|
+|Robben et al | 3D| DeepMedic like |  | elastic deformations + flips along the x-axis| 27|
